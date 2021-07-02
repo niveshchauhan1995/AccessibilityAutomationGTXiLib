@@ -1,0 +1,6 @@
+module GTXiLib {
+  umbrella header "GTXiLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1 @@
+../../../../../AccessbilitySampleApp/GTXiLib/Classes/GTXImageRGBAData+GTXOOPAdditions.h

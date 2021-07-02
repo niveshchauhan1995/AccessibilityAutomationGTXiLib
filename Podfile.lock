@@ -1,0 +1,23 @@
+PODS:
+  - GTXiLib (4.4):
+    - "Protobuf-C++ (~> 3.14.0)"
+  - "Protobuf-C++ (3.14.0)"
+
+DEPENDENCIES:
+  - GTXiLib (from `/Users/nivchauhan/Repos/AccessbilitySampleApp/GTXiLib`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - "Protobuf-C++"
+
+EXTERNAL SOURCES:
+  GTXiLib:
+    :path: "/Users/nivchauhan/Repos/AccessbilitySampleApp/GTXiLib"
+
+SPEC CHECKSUMS:
+  GTXiLib: ef572e98095f7f644b18ad772156d9aaef7c9615
+  "Protobuf-C++": 110af32bfa3d93da8ba92edb11435e54774cbaa3
+
+PODFILE CHECKSUM: 9f39bae58e00b3b09903d284101b37be48f6d554
+
+COCOAPODS: 1.7.4
