@@ -1,8 +1,8 @@
-# Accessibility Automation Using GTXiLib 
+Accessibility Automation Using GTXiLib 
 
 Sample app to integrate GTXiLib with Swift iOS Project
 
-## Installation
+Installation
 
 1. Download the GTXilib.
 2. Open GTXiLib podspec. 
